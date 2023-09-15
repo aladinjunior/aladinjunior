@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m looking for android development job
-- 🌱 I’m currently studying kotlin
 - 💬 Ask me about android stuff
 - 😄 Pronouns: he/him
 
