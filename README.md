@@ -1,9 +1,4 @@
-### Heyy i'm Aladin Júnior, android developer! 👋
 
-
-- 🔭 I’m looking for android development job
-- 💬 Ask me about android stuff
-- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/aladinjunior">
