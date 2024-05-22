@@ -1,25 +1,61 @@
+# Hi, I'm Aladin Junior
 
+
+
+<p align="center">
+    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+  </a>
+</p>
+
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@aralroca.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+</p>
+
+I am an Android developer with over 2 years of experience. Skilled in Kotlin, Java, and Android Studio, I specialize in creating robust and user-friendly mobile applications. 
 
 <div align="center">
-  <a href="https://github.com/aladinjunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aladinjunior&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aladinjunior&layout=compact&langs_count=7&theme=transparent"/>
-</div>
+
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aladinjunior&layout=compact&hide_title=1&card_width=300"/>
+
+  <br />
+  <small>Languages used in my public repos - big fan of Kotlin 😛</small>
+  <br />
+  <br />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Aladin-AndroidStudio" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Aladin-Android" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img align="center" alt="Aladin-Kotlin" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Aladin-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+My journey began with a good foundation in Java, which I later expanded to include Kotlin. I have built and maintained numerous mobile applications. Throughout my career, I have focused on creating high-quality, user-centric applications, continuously learning and adopting best practices to enhance my skills and deliver exceptional software solutions.
+
+<br />
+
+  #### 📖 &nbsp;&nbsp;[Follow me on medium](https://medium.com/@aladinjr013): My last articles
  
-</div>
-  
-##
+* [Avoid passing parcelable arguments in navigation](https://medium.com/@aladinjr013/avoid-passing-parcelable-arguments-in-navigation-aladin-85c746c9076a)
+* [Using location services 📍 on android](https://medium.com/@aladinjr013/navigating-the-world-of-location-services-in-android-can-be-a-daunting-task-6a9c946bdd65)
 
-<div>
-  <a href="https://instagram.com/aladinjr._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitter.com/aladinjr_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contactaladinjr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aladinjunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
+<br />
+
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and software
+* Android 
+* Kotlin & Java 
+* Jetpack Compose 
+* Git 
+
+<br />
+
