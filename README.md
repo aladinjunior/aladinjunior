@@ -29,8 +29,8 @@ I am an Android developer with over 2 years of experience. Skilled in Kotlin, Ja
 
 <div align="center">
 
+    
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aladinjunior&layout=compact&hide_title=1&card_width=300"/>
-
   <br />
   <small>Languages used in my public repos - big fan of Kotlin 😛</small>
   <br />
